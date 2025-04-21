@@ -7,6 +7,13 @@ I have Work on eminence ways as a cybersecurity analyst with 1.4 years. I am a p
 With a strong interest in blue team operations, I have actively worked on digital forensics, log analysis, and threat hunting to uncover and respond to malicious activities. My long-term goal is to gain proficiency in offensive tactics and contribute to proactive security by simulating real-world attacks to uncover hidden vulnerabilities.
 
 Skills 
+- Logs analysis like Windows event, and Linux.
+- Pcap analysis with wireshark, Tcpdump.
+- SIEM
+- Python
+- Incident Management System
+- Threat intelligence
+- Threat Hunting
 
 Projects 
 - Labs on Windows Buffer Overflows
