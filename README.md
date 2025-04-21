@@ -9,14 +9,14 @@ With a strong interest in blue team operations, I have actively worked on digita
 Skills 
 
 Projects 
-[Bullet Points]
-Labs on PCAP analysis using Wireshark, Zeek, Suricata, and tcpdump
-Labs on Basic Malware Analysis with both static and dynamic analysis
-Labs on installing, deploying, and executing feeds in the background of MISP, creating events, uploading them, and correlating with other events. Also includes creating MITRE ATT&CK mappings for the events
-Labs on Windows Event Logs using Event Viewer, analyzing logs with Sigma rules, and using automated tools like Hayabusa and Chainsaw
-Labs on installing and deploying an Incident Management System (IMS) locally using Docker
-Labs on writing YARA rules for detecting, analyzing, and responding to malicious files using Loki (an open-source threat detection tool that relies on YARA rules)
-Labs on threat hunting using SIEM tools like ELK and Splunk
+- Labs on Windows Buffer Overflows
+- Labs on PCAP analysis using Wireshark, Zeek, Suricata, and tcpdump
+- Labs on Basic Malware Analysis with both static and dynamic analysis
+- Labs on installing, deploying, and executing feeds in the background of MISP, creating events, uploading them, and correlating with other events. Also includes creating MITRE ATT&CK mappings for the events.
+- Labs on Windows Event Logs using Event Viewer, analyzing logs with Sigma rules, and using automated tools like Hayabusa and Chainsaw
+- Labs on installing and deploying an Incident Management System (IMS) locally using Docker.
+- Labs on writing YARA rules for detecting, analyzing, and responding to malicious files using Loki (an open-source threat detection tool that relies on YARA rules).
+- Labs on threat hunting using SIEM tools like ELK and Splunk.
 
 
 ### Follow me 
