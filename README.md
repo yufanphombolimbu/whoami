@@ -27,7 +27,9 @@ Projects
 
 
 ### Follow me 
+Twitter
 [![X (Twitter)](https://img.shields.io/badge/X-@St3ealthsec-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/St3ealthsec)
 
 Check out my cybersecurity blog on medium. 
+
 [![Medium](https://img.shields.io/badge/Medium-@youfanlimboo-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@youfanlimboo)
